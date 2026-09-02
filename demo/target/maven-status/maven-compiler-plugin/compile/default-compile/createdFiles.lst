@@ -1,0 +1,14 @@
+com\sistemas\servlets\ListMeasurementServlet.class
+com\sistemas\repository\MeasurementInMemory.class
+com\sistemas\service\DeviceServiceImpl.class
+com\sistemas\service\MeasurementServiceImpl.class
+com\sistemas\repository\MeasurementRepository.class
+com\sistemas\repository\DeviceRepository.class
+com\sistemas\service\MeasurementService.class
+com\sistemas\service\DeviceService.class
+com\sistemas\servlets\RegisterMeasurementServlet.class
+com\sistemas\Main.class
+com\sistemas\model\Measurement.class
+com\sistemas\repository\DeviceInMemory.class
+com\sistemas\config\AppConfig.class
+com\sistemas\model\Device.class
